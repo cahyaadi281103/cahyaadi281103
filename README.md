@@ -7,7 +7,7 @@
 - ⚡ Fun fact: ...
 
 <!---
-https://github.com/ditszzz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+cahya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 ---------------------------------------------------------------------------------
