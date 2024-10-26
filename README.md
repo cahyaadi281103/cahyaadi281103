@@ -1,16 +1,4 @@
-- 👋 Hi, I’m @cahya
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-cahya is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
----------------------------------------------------------------------------------
+-----------------------------
 (CODING PYTHON)
 
 # Meminta input tiga buah bilangan dari pengguna
@@ -64,8 +52,6 @@ print("Bilangan terbesar adalah:", terbesar)
 
 
 ----------------------------------------------------------------------------------------------------
-DATA 1,2,3 dengan hasil bilangan terbesar
-<img 
 
 <!--
 **cahyaadi281103/cahyaadi281103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
